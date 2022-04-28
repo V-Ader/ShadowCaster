@@ -1,6 +1,6 @@
 # Shadow Caster
-Shadwo Caster is a project created for Objective Programming curse.
-The main idea is to cast shadowd on area, that is out of player's vision.
+Shadow Caster is a project created for Objective Programming curse.
+The main idea is to cast shadow on area, that is out of player's vision.
 
 ## instalation
 use vcpkg to download SFML x64 in latest version
